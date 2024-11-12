@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_apple/static/css/main.eff332b3.css",
+    "main.js": "/react_apple/static/js/main.685cac96.js",
+    "static/js/453.d6297c1e.chunk.js": "/react_apple/static/js/453.d6297c1e.chunk.js",
+    "index.html": "/react_apple/index.html",
+    "main.eff332b3.css.map": "/react_apple/static/css/main.eff332b3.css.map",
+    "main.685cac96.js.map": "/react_apple/static/js/main.685cac96.js.map",
+    "453.d6297c1e.chunk.js.map": "/react_apple/static/js/453.d6297c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff332b3.css",
+    "static/js/main.685cac96.js"
+  ]
+}
